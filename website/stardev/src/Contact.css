@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=David+Libre:wght@500&display=swap');
+.row {
+    text-align: center;
+}
+
+.contact {
+    font-family: 'David Libre', serif;
+    background-color: rgb(28, 172, 28);
+}
+
+.contact_form {
+    background-color: rgb(255, 187, 0);
+}
+
+.contact_button {
+    padding: 20px;
+    color: black;
+    text-align: center;
+}
+
+.contact_number {
+    text-align: center;
+}

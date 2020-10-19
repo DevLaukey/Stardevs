@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=David+Libre:wght@500&display=swap');
+.project_radius {
+    border-radius: 50%;
+}
+
+.team_text {
+    text-align: center;
+}
+
+.team {
+    font-family: 'David Libre', serif;
+}
